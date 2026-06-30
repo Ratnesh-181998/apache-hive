@@ -1,0 +1,14 @@
+
+
+Hive Setup On GCP
+Step 1: Setup GCP Dataproc - https://www.youtube.com/watch?v=HrGxUxcqXI8
+----------------------
+Step 2: Install GCP Cloud SDK in Windows - https://www.youtube.com/watch?v=7mE-9E4D4Os
+
+OR
+
+Step 3: Install GCP Cloud SDK in Mac - https://www.youtube.com/watch?v=EdNWgZ4cOWo
+
+OR
+
+Refer this doc - https://cloud.google.com/sdk/docs/install
